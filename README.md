@@ -6,7 +6,7 @@ To perform a study on Socket Programming
 ## Introduction:
 
 
- 	Socket programming is a crucial aspect of network communication, 
+Socket programming is a crucial aspect of network communication, 
   allowing for data exchange between computers over a network.
   It forms the backbone of various networked applications,
   enabling communication between clients and servers.
@@ -16,7 +16,7 @@ To perform a study on Socket Programming
   
 ## Understanding Socket Programming:
 
-	Socket programming involves the use of sockets, 
+Socket programming involves the use of sockets, 
  which serve as endpoints for communication.
  A socket is identified by an IP address and a port number,
  and it facilitates data transfer between a client and a server. 
